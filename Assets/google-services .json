@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "187364048875",
+    "firebase_url": "https://investor-srunp1-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "investor-srunp1",
+    "storage_bucket": "investor-srunp1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:187364048875:android:a4a4fce2ce32a7c9c323ae",
+        "android_client_info": {
+          "package_name": "ReadyWealth.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "187364048875-aecrff8mg1lg96g7253hh5rgao0inl1k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ReadyWealth.com",
+            "certificate_hash": "10fd021308bfd18bb0211806b53bba65267fcb82"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9R0d2A9lf1TMdrI2MmaZ8lTV3kxxk5wQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "187364048875-m9m1ht2gg5qqjqof72ig7qpnsrsaci3t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
