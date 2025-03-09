@@ -39,7 +39,7 @@ ExportedObj/
 *.tmp
 *.user
 *.userprefs
-*.pidb
+*.pidb  
 *.booproj
 *.svd
 *.pdb
@@ -61,6 +61,14 @@ sysinfo.txt
 *.unitypackage
 *.unitypackage.meta
 *.app
+*.keystore
+user.keystore
+desktop.ini
+Meryel.CodeAssist.Editor.csproj
+Temp/
+*.code-workspace
+*.bak
+*.autosave
 
 # Crashlytics generated file
 crashlytics-build.properties
@@ -71,3 +79,4 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
